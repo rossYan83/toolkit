@@ -1,0 +1,15 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+ 
+.input {
+  padding: 8px;
+  border: 1px solid #b6bec6;
+  border-radius: 4px;
+  font-size: 14px;
+}
+ 
